@@ -11,3 +11,5 @@ asdasdqwe---------
 
 
 }
+
+String name = "zhangsan"
