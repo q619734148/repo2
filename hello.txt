@@ -4,3 +4,6 @@
 
 asdddddddasdasdasdzxccccccccccccccc
 asdasdasd
+
+
+String name = "lihua ";
